@@ -18,15 +18,15 @@
 >> **Note: the stack requries minimum of 2cpu/4gb ram in each worker node where they will run**
 
 ```sh
-kubectl apply -f https://github.com/puneetgavri/efk/raw/master/elk/elastic-search.yaml
+kubectl apply -f https://raw.githubusercontent.com/puneetgavri/efk/refs/heads/main/elastic-search.yaml
 ```
 
 ```sh
-kubectl apply -f https://github.com/puneetgavri/efk/raw/master/elk/kibana.yaml
+kubectl apply -f https://raw.githubusercontent.com/puneetgavri/efk/refs/heads/main/kibana.yaml
 ```
 
 ```sh
-kubectl apply -f https://github.com/puneetgavri/efk/raw/master/elk/filebeat.yaml
+kubectl apply -f https://raw.githubusercontent.com/puneetgavri/efk/refs/heads/main/filebeat.yaml
 ```
 
 ## get kibana login credentials 
