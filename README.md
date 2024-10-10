@@ -1,4 +1,5 @@
 ## ELK Stack
+![efk](https://github.com/puneetgavri/efk/blob/main/efk.jpeg "efk")
 
 ### Elastic Search 
 > is a no sql db that stores the data from various sources
